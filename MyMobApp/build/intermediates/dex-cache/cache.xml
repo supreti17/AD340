@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="847fcde0b45f5b5028f90cfdecaca4b154431572">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_28138180292328cb78d9a139412ac8ef4a7192bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\8714a0b069339858d59f93df686adf36ee328135\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_559eb314bade74544f1fbbecdbed19d2c2a33097\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\8714a0b069339858d59f93df686adf36ee328135\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b20164e01a11df8ff0ccedbff0341a284dee13c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\f779b64fbaa8b04c90b7f45828f063cec06950d2\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c81dc9b9bfbb7dcb827fbd711f100b06c251f525\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\e3d55349d1d6ce234df00a8a615364b7480208c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47241853c2bb711f431e6c9cb5413a5d3569d499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\f779b64fbaa8b04c90b7f45828f063cec06950d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ecc2cc74379610cc0333bca54514831a1c3d5df8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\bd428235eec0972d3653d64a3b778b3acea1c8d9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08f589808eaf2f67ec6823bbacc2fb50461c044f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\e3d55349d1d6ce234df00a8a615364b7480208c3\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6179af1ee8205e27811d372d1bd088280caeb68b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\e77fb58b54cc360992d8231b9a60b842dbb190c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4031627ed430920eccc50a9b32fedf1f05923e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\d6fbb5104a15077f89aacfbe4bb40e8f7e214bb5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfaaefb04b0bb65b1e042c592cec61d7df8c985f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\53ace2b904726cad864881d9eb726d050e70e366\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d11d97a576df064bcce8bdd60a5de0116b8073ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\d6fbb5104a15077f89aacfbe4bb40e8f7e214bb5\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bf985901f44b4d8d115dfb410cb637c75705ae0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\71eaa5367bd69d89539144003e225357dc422757\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_845202c89d6704f7271e283f0d5c9750c3281aa0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\63ad17223bbedf394c8629dcd53ddbbd0bb08ae6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54069150e04c673ca5b50cfdb73158de02ddcb38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\4bb75e4e076e81caba5b92a326afddae38f1b458\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7c229a129c7faba8dbe70f83b067a7f6f60e34f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b931b124f8e402ba03ad5e63c5f596cebe5c80bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_b5fb24ed565ece490ab43f819d02df1ab06b470d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\.android\build-cache\4bb75e4e076e81caba5b92a326afddae38f1b458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a9b58c8cb89631e615570e879503b9347da503d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\upret\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\upret\AndroidStudioProjects\MyMobApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_9188fb48c0131dedf7e60b53c385d63c794751ae\classes.dex" />
+    </item>
+
+</items>
